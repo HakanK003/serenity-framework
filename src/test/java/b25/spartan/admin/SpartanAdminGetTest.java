@@ -24,6 +24,7 @@ public class SpartanAdminGetTest {
         RestAssured.baseURI ="http://44.201.121.105:7000";
     }
 
+
     @Disabled
     @Test
     public void getAllSpartan(){
